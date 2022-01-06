@@ -1,0 +1,132 @@
+
+/*******************************TAG SELECTORS**********************************/
+body {
+  background-color: #0D192B;
+  text-align: center;
+  width: 1440px;
+}
+
+h2 {
+  text-align: left;
+  color: white;
+  margin-left: 20px;
+  margin-top: 0;
+  font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif;
+  font-size: 16px;
+}
+
+h6 {
+  color: #8BACDA;
+  text-align: left;
+  margin-left: 20px;
+  font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif;
+}
+
+hr {
+  color: #8BACDA;
+  width: 80%;
+  border-top: 5px;
+}
+
+
+
+/*******************************CLASS SELECTORS********************************/
+
+.avatar {
+  width: 10%;
+  float: left;
+  background-color: white;
+  padding: 1px;
+  border-radius: 100%;
+  position: relative;
+  left: 20px;
+  top: 5px;
+}
+
+.card {
+  background-color: #14253D;
+  border-radius: 15px;
+  width: 230px;
+  height: 430px;
+  margin: 25% auto 25% auto;
+  box-shadow: 0 10px 0 10px #0B1423;
+}
+
+.creation-span:hover {
+  color: #00FFF7;
+}
+
+.eye {
+  position: absolute;
+}
+
+.icon-view {
+  position: relative;
+  opacity: 0;
+  background-color: #00FFF7;
+  padding: 85px 75px;
+  left: 15px;
+  bottom: 235px;
+  border-radius: 15px;
+}
+
+.icon-view:hover {
+  opacity: 0.5;
+}
+
+.clock {
+  width: 10px;
+  position: relative;
+  left: 35px;
+  top: 1px;
+}
+
+.creation {
+  margin-left: 50px;
+  position: relative;
+  left: 10px;
+  bottom: 5px;
+}
+
+.creation-span {
+  color: White;
+  font-weight: bolder;
+}
+
+.icon-e {
+  width: 7px;
+}
+
+.copyright {
+  bottom: 10px;
+  right: 0;
+}
+
+.img-1{
+  border-radius: 10px;
+  width: 85%;
+  height: 50%;
+  margin: 15px auto;
+}
+
+
+
+.p1 {
+  color: #00FFF7;
+  font-size: 12px;
+  font-weight: bold;
+  text-align: left;
+  font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif;
+  display: inline;
+}
+
+.p2 {
+  color: #8BACDA;
+  font-size: 12px;
+  font-weight: bold;
+  margin-left: 35px;
+  text-align: right;
+  font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif;
+  display: inline;
+}
+/******************************************************************************/
